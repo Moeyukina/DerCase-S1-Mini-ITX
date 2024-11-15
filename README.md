@@ -24,7 +24,7 @@ If you are interested it and you can try it. there are other better ones being d
 
 This repository is Official authorized by Anderの装机实验室 and distributed with the help of Moeyukina（蓝色苹果派）
 
-## 📖  注意事项 Caveat
+## 注意事项 Caveat
 
 中文 Chinese
 1. 电源开关是16MM圆形电脑开关
