@@ -52,7 +52,7 @@ This repository is Official authorized by Anderの装机实验室 and distribute
 ## 模型下载地址 Models Download Links
 
 1. GitHub: https://github.com/Moeyukina/DerCase-S1-Mini-ITX
-2. Makerworld China: https://makerworld.com.cn/zh/models/643494#profileId-583583
+2. Makerworld China: https://makerworld.com.cn/zh/models/643494
 
 
 
