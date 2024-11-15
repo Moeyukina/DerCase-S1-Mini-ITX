@@ -1,4 +1,4 @@
-## DerCase Mini ITX
+## DerCase-S1-Mini-ITX
 DerCase Mini ITX 机箱 3D 打印模型
 
 DerCase Mini ITX Case 3D Printer Model
@@ -10,21 +10,13 @@ DerCase Mini ITX Case 3D Printer Model
 
 https://www.bilibili.com/video/BV1tWULYpExS
 
-## 关于Anderの装机实验室 | About Ander
+<br>
 
-> itx爱好者，喜欢装分体水，欢迎关注本人频道
+本机箱是本人设计的第一个作品，尚在优化中，感兴趣的话可以试试，还有其它更好的正在设计
 
-Bilibili: Anderの装机实验室 
+This chassis is my first design, still in the process of optimization.
 
-https://space.bilibili.com/13161902
-
-YouTube : Ander 
-
-https://www.youtube.com/@ander6608
-
-Bambulab Makerworld China : Ander
-
-https://makerworld.com.cn/zh/@Ander5588
+If you are interested it and you can try it. there are other better ones being designed.
 
 ## GitHub 分发 | Github Distribution
 
@@ -60,11 +52,30 @@ This repository is Official authorized by Anderの装机实验室 and distribute
 ## 模型下载地址 Models Download Links
 
 1. GitHub: https://github.com/Moeyukina/DerCase-S1-Mini-ITX
-2. Bambulab Makerworld China: https://makerworld.com.cn/zh/models/643494#profileId-583583
+2. Makerworld China: https://makerworld.com.cn/zh/models/643494#profileId-583583
+
+
 
 ## 展示图片 Images
 
 ![2.png](https://makerworld.bblmw.cn/makerworld/model/CNaaeb908d28b863/design/2024-11-15_32011373702bf.jpg?x-oss-process=image/resize,w_1000/format,webp)
+
+
+## 关于Anderの装机实验室 | About Ander
+
+> itx爱好者，喜欢装分体水，欢迎关注本人频道
+
+Bilibili: Anderの装机实验室 
+
+https://space.bilibili.com/13161902
+
+YouTube : Ander 
+
+https://www.youtube.com/@ander6608
+
+Bambulab Makerworld China : Ander
+
+https://makerworld.com.cn/zh/@Ander5588
 
 ## 许可证 License
 
