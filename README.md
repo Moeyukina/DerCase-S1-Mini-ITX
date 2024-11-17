@@ -36,6 +36,7 @@ This repository is Official authorized by Anderの装机实验室 and distribute
 7. 需要用定制线，推荐镀银线
 8. 磁吸顶盖磁铁尺寸为直径5mm，厚1.5mm
 9. 安装有难度，不建议小白上手
+10. 拓竹 A1 Mini 的打印板过小，因此无法在此设备上打印
 
 英语 English
 1. power switch is 16mm round computer switch
@@ -47,6 +48,7 @@ This repository is Official authorized by Anderの装机实验室 and distribute
 7. Customized cable is required, silver-plated cable is recommended.
 8. The magnet for the top cover is 5mm in diameter and 1.5mm thick.
 9. Installation is difficult, not recommended for beginners.
+10. BambuLab A1 Mini's print plate is too small and can not print on this device.
 
 
 ## 模型下载地址 Models Download Links
