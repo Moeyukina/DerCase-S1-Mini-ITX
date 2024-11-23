@@ -1,7 +1,7 @@
 ## DerCase-S1-Mini-ITX
 
-![3.png](https://makerworld.bblmw.cn/makerworld/model/CNaaeb908d28b863/30115461/instance/2024-11-15_51991dd28bd6.jpg?x-oss-process=image/resize,w_300/format,webp)
-![2.png](https://makerworld.bblmw.cn/makerworld/model/CNaaeb908d28b863/design/2024-11-15_7dd6f41de791e.jpg?x-oss-process=image/resize,w_535/format,webp)
+![3.png](https://makerworld.bblmw.cn/makerworld/model/CNaaeb908d28b863/30115461/instance/2024-11-15_51991dd28bd6.jpg?x-oss-process=image/resize,w_230/format,webp)
+![2.png](https://makerworld.bblmw.cn/makerworld/model/CNaaeb908d28b863/design/2024-11-15_7dd6f41de791e.jpg?x-oss-process=image/resize,w_400/format,webp)
 
 > 买不到喜欢的机箱？不如自制一个超mini海景房！ヾ(≧▽≦*)o
 <br>Can not buy your favorite PC case? How about building a mini 'ocean-view room' by yourself? ヾ(≧▽≦*)o
