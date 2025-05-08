@@ -41,6 +41,7 @@ DerCase mini ITX PC chassis 3D Model<br>
 7. 需要用定制线，推荐镀银线
 8. 磁吸顶盖磁铁尺寸为直径5mm，厚1.5mm
 9. 安装有难度，不建议小白上手
+10. 电源支持最多SFX-L
 
 英语 English
 1. power switch is 16mm round computer switch
@@ -52,8 +53,7 @@ DerCase mini ITX PC chassis 3D Model<br>
 7. Customized cable is required, silver-plated cable is recommended.
 8. The magnet for the top cover is 5mm in diameter and 1.5mm thick.
 9. Installation is difficult, not recommended for beginners.
-
-
+10. Power supply supports up to SFX-L.
 
 ## 模型下载地址 Models Download Links
 
