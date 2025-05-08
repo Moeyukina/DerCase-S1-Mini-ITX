@@ -85,4 +85,10 @@ You shall not share, sub-license, sell, rent, host, transfer, or distribute in a
 
 ## 星标历史 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Moeyukina/DerCase-S1-Mini-ITX&type=Date)](https://www.star-history.com/#Moeyukina/DerCase-S1-Mini-ITX&Date)
+<a href="https://www.star-history.com/#Moeyukina/DerCase-S1-Mini-ITX&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Moeyukina/DerCase-S1-Mini-ITX&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Moeyukina/DerCase-S1-Mini-ITX&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Moeyukina/DerCase-S1-Mini-ITX&type=Date" />
+ </picture>
+</a>
