@@ -22,6 +22,8 @@ DerCase mini ITX PC chassis 3D Model<br>
 ## GitHub 分发 | Github Distribution
 > [!NOTE]
 > 此仓库是"Anderの装机实验室"唯一授权的官方仓库，且由 Moeyukina（蓝色苹果派） 协助分发<br>This repository is the only official authorized by "Anderの装机实验室" and distributed with the help of Moeyukina（蓝色苹果派）
+> 
+> 2025-5-9：此前由 Anderの装机实验室 告知同步 Makerworld 下架此模型，现已恢复资源并撤销归档<br>This 3Dmodel was previously notified by "Anderの装机实验室" synchronized with Makerworld , and now was unarchive repository and recovery the resources
 
 
 ## 注意事项 Caveat
