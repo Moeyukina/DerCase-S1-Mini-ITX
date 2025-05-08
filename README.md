@@ -82,3 +82,7 @@ DerCase mini ITX PC chassis 3D Model<br>
 <br>
 This user content is licensed under a Makerworld Standard Digital File License.
 You shall not share, sub-license, sell, rent, host, transfer, or distribute in any way the digital or 3D printed versions of this object, nor any other derivative work of this object in its digital or physical format (including - but not limited to - remixes of this object, and hosting on other digital platforms). The objects may not be used without permission in any way whatsoever in which you charge money, or collect fees.
+
+## 星标历史 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Moeyukina/DerCase-S1-Mini-ITX&type=Date)](https://www.star-history.com/#Moeyukina/DerCase-S1-Mini-ITX&Date)
